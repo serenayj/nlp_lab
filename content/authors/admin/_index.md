@@ -1,41 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yanjun Gao
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Yanjun 
+last_name: Gao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Colorado 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
 
 interests:
+  - Natural Language Processing 
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Health Informatics 
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Engineering 
+      institution: Pennsylvania State University
+      year: 2021
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -72,6 +68,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Yanjun Gao is assistant professor at Department of Biomedical Informatics, University of Colorado Anschutz Campus. Previously, she is a postdoc research associate in the Critical Care Medicine (ICU) Data Science Lab in the Division of Allergy, Pulmonary and Critical Care Medicine within the Department of Medicine. She serves on the organizing committee of National NLP Clinical Challenges (N2C2), and Graph-based Natural Language Processing (TextGraphs). She also reviews for several NLP and clinical informatics conferences and journals. 
