@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest News (test) # under post
       subtitle:
       text:
       count: 5
