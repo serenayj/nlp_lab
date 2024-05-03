@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         Wowchemy
-        Research Group
+        Research Group (test)
       image:
         filename: welcome.jpg
       text: |
