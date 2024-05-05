@@ -14,12 +14,13 @@ sections:
       title: |
         # LARK Lab
         Welcome
-      image:
-        filename: lab_welcome.png
+      #image:
+      #  filename: lab_welcome.png
         
       design:
-        # Choose how many columns the section has. Valid values: '1' or '2'.
-        columns: '1'
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: lab_welcome.png
    
   
   - block: collection
