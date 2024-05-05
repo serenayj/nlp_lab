@@ -18,9 +18,9 @@ sections:
       #  filename: lab_welcome.png
         
       design:
-      banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: lab_welcome.png
+        banner:
+          # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+          filename: lab_welcome.png
    
   
   - block: collection
