@@ -6,8 +6,8 @@ type: landing
 
 sections:
   - block: markdown
-     content:
-        title: |
+    content:
+     title: |
             Welcome 
 #  - block: hero
 #    content:
