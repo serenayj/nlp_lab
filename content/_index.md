@@ -10,7 +10,7 @@ sections:
       title: |
         # LARK Lab 
       image:
-        filename: lab_design.jpg
+        filename: lab_banner.jpg
       text: |
         <br>
 
