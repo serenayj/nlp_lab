@@ -12,8 +12,7 @@ sections:
       image:
         filename: lab_design.jpg
       text: |
-        <br>
-     The LARK lab at University of Colorado, Anschutz studies foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI). The lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. We are seeking passionate individuals who are driven to significantly impact the field through groundbreaking research and inventive solutions. 
+        <br> 
   
   - block: collection
     content:
