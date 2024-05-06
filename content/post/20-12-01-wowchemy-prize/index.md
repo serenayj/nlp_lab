@@ -1,6 +1,6 @@
 ---
 title: The LARK Lab at Department of Biomedical Informatics, CU-Anschutz has several openings! 
-date: 2020-12-01
+date: 2024-05-04
 ---
 
 The LARK Lab (NLP research group at  Department of Biomedical Informatics, CU-Anschutz) has several openings!  
