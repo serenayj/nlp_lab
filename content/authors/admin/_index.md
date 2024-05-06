@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principle Investigators
+  - Principal Investigators
 ---
 
 Dr. Yanjun Gao is assistant professor at Department of Biomedical Informatics, University of Colorado Anschutz Campus. Previously, she is a postdoc research associate in the Critical Care Medicine (ICU) Data Science Lab in the Division of Allergy, Pulmonary and Critical Care Medicine within the Department of Medicine. She serves on the organizing committee of National NLP Clinical Challenges (N2C2), and Graph-based Natural Language Processing (TextGraphs). She also reviews for several NLP and clinical informatics conferences and journals. 
