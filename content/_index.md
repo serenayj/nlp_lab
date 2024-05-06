@@ -1,15 +1,15 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-05-04
 type: landing
 
 sections:
   - block: hero
     content:
        title: |
-            Welcome
-       text: The LARK (LAnguage, Reasoning, Knowledge) lab is a research group at the <a href="https://medschool.cuanschutz.edu/dbmi">Department of Biomedical Informatics, University of Colorado, Anschutz Campus</a>, led by Dr. Yanjun Gao. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. We are seeking passionate individuals who are driven to significantly impact the field through groundbreaking research and inventive solutions. The lab currently has openings for Postdoc, PhD students, Data Scientists, and Research Interns available.
+            Welcome! 
+       text: <p>The LARK (LAnguage, Reasoning, Knowledge) lab is a natural language processing research group at the <a href="https://medschool.cuanschutz.edu/dbmi">Department of Biomedical Informatics, University of Colorado, Anschutz Campus</a>, led by <a href="https://serenayj.github.io/">Dr. Yanjun Gao</a>. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. </p> <p>We are seeking passionate individuals who are driven to significantly impact the field through groundbreaking research and inventive solutions. The lab currently has openings for Postdoc, PhD students, Data Scientists, and Research Interns available. </p>
        image:
           filename: lab_welcome.png  
 
@@ -17,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News (test) # under post
+      title: Latest News # under post
       subtitle:
       text:
       count: 5
