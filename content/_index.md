@@ -5,11 +5,13 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
        title: |
-            Welcome 
-  - block: markdown
+            Welcome
+       image:
+          filename: lab_welcome.png  
+  - block: hero
     content:
       title: |
         # LARK Lab
