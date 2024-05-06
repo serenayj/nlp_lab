@@ -1,14 +1,17 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: The LARK Lab at Department of Biomedical Informatics, CU-Anschutz has several openings! 
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
-
+The LARK Lab (NLP research group at  Department of Biomedical Informatics, CU-Anschutz) has several openings!  
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+The LARK lab, directed by Dr.Yanjun Gao is at the forefront of advancing language technologies to enhance real-world applications, particularly in medicine and health. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. We are seeking passionate individuals who are driven to significantly impact the field through groundbreaking research and inventive solutions. 
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+If you are looking for a NLP postdoc/research scientist position, or if you want to apply for PhD program, please email us at yanjun dot gao at cuanshutz dot edu.  
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+**Why Join Us** The LARK lab offers a dynamic and innovative environment where cutting-edge NLP and AI research meets practical medical applications. Collaborate daily with medical doctors and other healthcare professionals to develop solutions that have immediate and tangible effects on patient care. As the largest academic health sciences campus in the Rocky Mountain region, CU Anschutz encompasses six health professional schools, over 60 centers and institutes, and two nationally ranked partner hospitals. This vibrant department offers unique opportunities for growth, collaboration, and impact. Our location not only provides unprecedented access to urban amenities and cultural experiences in Denver but also places you minutes away from some of the nation’s best outdoor activities, including hiking in the Rocky Mountains and skiing in Vail and Aspen. 
+
+
+
+
