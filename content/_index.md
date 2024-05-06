@@ -9,11 +9,19 @@ sections:
     content:
        title: |
             Welcome to the Language, Reasoning, and Knowledge (LARK) Lab 
-       text: <p> We are a research group within <a href="https://medschool.cuanschutz.edu/dbmi">Department of Biomedical Informatics, University of Colorado, Anschutz Campus</a>, led by <a href="https://serenayj.github.io/">Dr. Yanjun Gao</a>. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. </p> <p>We are currently seeking passionate individuals eager to make a significant impact on NLP and AI in health, with openings available for Postdoctoral Researchers, PhD Students, Data Scientists, and Research Interns.  </p>
+       text: <p> We are a research group within <a href="https://medschool.cuanschutz.edu/dbmi">Department of Biomedical Informatics, University of Colorado, Anschutz Campus</a>, led by <a href="https://serenayj.github.io/">Dr. Yanjun Gao</a>. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. </p> 
        image:
           filename: lab_welcome.png  
 
-   
+  - block: markdown
+    content:
+      title: Openings 
+      subtitle:
+      text: |
+         We are currently seeking passionate individuals eager to make a significant impact on NLP and AI in health, with openings available for Postdoctoral Researchers, PhD Students, Data Scientists, and Research Interns. Send your CV to yanjun dot gao dot cuanschutz dot edu! 
+    
+    design:
+      columns: '1'
   
   - block: collection
     content:
