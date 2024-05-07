@@ -3,10 +3,10 @@ title: The LARK Lab at Department of Biomedical Informatics, CU-Anschutz has sev
 date: 2024-05-04
 ---
 
-The LARK Lab (NLP research group at  Department of Biomedical Informatics, CU-Anschutz) has several openings!  
+We are hiring!!!   
 <!--more-->
 
-The LARK lab, directed by Dr.Yanjun Gao is at the forefront of advancing language technologies to enhance real-world applications, particularly in medicine and health. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. We are seeking passionate individuals who are driven to significantly impact the field through groundbreaking research and inventive solutions. 
+The LARK lab, directed by Dr.Yanjun Gao, is at the forefront of advancing language technologies to enhance real-world applications, particularly in medicine and health. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. We are seeking passionate individuals who are driven to significantly impact the field through groundbreaking research and inventive solutions. 
 
 If you are looking for a NLP postdoc/research scientist position, or if you want to apply for PhD program, please email us at yanjun dot gao at cuanshutz dot edu.  
 
