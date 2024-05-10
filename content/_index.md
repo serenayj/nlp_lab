@@ -11,7 +11,7 @@ sections:
             Welcome to the Language, Reasoning, and Knowledge (LARK) Lab 
        text: <p> We are a research group within <a href="https://medschool.cuanschutz.edu/dbmi">Department of Biomedical Informatics, University of Colorado, Anschutz Campus</a>, led by <a href="https://serenayj.github.io/">Dr. Yanjun Gao</a>. By developing foundational technologies and conducting cutting-edge research in natural language processing (NLP) with innovative artificial intelligence (AI), the lab is dedicated to creating powerful tools that tackle critical healthcare challenges and integrate seamlessly into healthcare systems. </p> 
        image:
-          filename: lab_welcome.png  
+          filename: new_lab.png  
 
   - block: markdown
     content:
