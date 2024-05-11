@@ -10,4 +10,4 @@ banner:
   image: ''
 ---
 
-Selected publications for viewing. 
+Selected publications for viewing. Some work were published during Yanjun's time as postdoctoral researcher in [ICU Data Science Lab, UW-Madison](https://www.medicine.wisc.edu/apcc/icu-data-science-research).  
