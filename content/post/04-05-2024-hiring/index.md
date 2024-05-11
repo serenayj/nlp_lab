@@ -12,6 +12,10 @@ If you are looking for a NLP postdoc/research scientist position, or if you want
 
 We are flexible about the start date and could accomodate for the **earliest start date as August 2024**! If you are graduating the summer 2024, do not hesitate to apply!   
 
+Postdoc application link: [apply](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33603&lang=en)
+
+Data scientist link: [apply](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=33571&lang=en)
+
 **Why Join Us** The LARK lab offers a dynamic and innovative environment where cutting-edge NLP and AI research meets practical medical applications. Collaborate daily with medical doctors and other healthcare professionals to develop solutions that have immediate and tangible effects on patient care. As the largest academic health sciences campus in the Rocky Mountain region, CU Anschutz encompasses six health professional schools, over 60 centers and institutes, and two nationally ranked partner hospitals. This vibrant department offers unique opportunities for growth, collaboration, and impact. Our location not only provides unprecedented access to urban amenities and cultural experiences in Denver but also places you minutes away from some of the nation’s best outdoor activities, including hiking in the Rocky Mountains and skiing in Vail and Aspen. 
 
 
