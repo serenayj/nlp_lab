@@ -5,7 +5,7 @@ title: Research Projects
 view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: lab_w_dbmi_banner_wide.png
+#banner:
+#  caption: ''
+#  image: lab_w_dbmi_banner_wide.png
 --- 
