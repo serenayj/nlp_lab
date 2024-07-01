@@ -18,7 +18,7 @@ sections:
       title: Openings 
       subtitle:
       text: |
-         As the first NLP research lab at CU-Anschutz, we are currently seeking passionate individuals eager to make a significant impact on NLP and AI in health, with openings available for Postdoctoral Researchers, PhD Students, Data Scientists, and Research Interns. Send your CV to yanjun dot gao dot cuanschutz dot edu! 
+         As the first NLP research lab at CU-Anschutz, we are currently seeking passionate individuals eager to make a significant impact on NLP and AI in health, with openings available for Postdoctoral Researchers, PhD Students, Data Scientists, and Research Interns. If you are interested in being part of us, apply here: [link](https://forms.gle/DWRmJ86RERBgqqVz9)!  
     
     design:
       columns: '1'
