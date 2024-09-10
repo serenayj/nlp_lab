@@ -14,7 +14,7 @@ role: NLP Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: '' 
+  - name: University of Colorado, Anschutz Medical Campus 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
