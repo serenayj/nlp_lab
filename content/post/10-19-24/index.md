@@ -4,7 +4,9 @@ date: 2024-10-19
 ---
 
 
-Our lab is featured in a [recent campus interview](https://news.cuanschutz.edu/dbmi/ai-in-graduate-education), highlighting the exciting ways we are integrating artificial intelligence (AI) to enhance critical thinking in student education at the University of Colorado Anschutz Medical Campus. It’s an honor to see our work and contributions to AI-driven learning being recognized. In the interview, Dr. Gao illustrated how AI technologies are not only transforming tasks but also helping students develop deeper analytical and problem-solving skills. The feature also spotlighted Nourah Salem, a fourth-year PhD student in our lab, and her groundbreaking research.
+Our lab is featured in a [recent campus interview](https://news.cuanschutz.edu/dbmi/ai-in-graduate-education), highlighting the exciting ways we are integrating artificial intelligence (AI) to enhance critical thinking in student education at the University of Colorado Anschutz Medical Campus. <!--more-->
+
+It’s an honor to see our work and contributions to AI-driven learning being recognized. In the interview, Dr. Gao illustrated how AI technologies are not only transforming tasks but also helping students develop deeper analytical and problem-solving skills. The feature also spotlighted Nourah Salem, a fourth-year PhD student in our lab, and her groundbreaking research.
 
 Dr. Gao’s work at CU Anschutz emphasizes innovation and creativity, exploring new ways to leverage AI in a responsible and impactful manner. AI in education is not just about automating routine tasks—it’s about freeing students to focus on the most complex and creative aspects of their work, ultimately fostering a higher level of critical thinking.
 
