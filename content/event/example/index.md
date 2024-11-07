@@ -1,16 +1,9 @@
 ---
-title: Example Event
+title: LARK Lab's First Hangout 
 
 event: LARK Lab's First Hangout 
 event_url: 
 
-location: Red Rocks and Round1
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: United States
 
 summary: We just had our lab's first hangout event on the day of Denver’s first snowstorm of Winter 2024!  
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
