@@ -1,7 +1,7 @@
 ---
 title: LARK Lab's First Hangout 
 
-event: LARK Lab's First Hangout 
+#event: LARK Lab's First Hangout 
 event_url: 
 
 
@@ -15,7 +15,7 @@ summary: We just had our lab's first hangout event on the day of Denver’s firs
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 
 # Is this a featured talk? (true/false)
