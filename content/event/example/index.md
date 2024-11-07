@@ -24,19 +24,20 @@ summary: We just had our lab's first hangout event on the day of Denver’s firs
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Selfie at Red Rock with snow' [Red Rock](https://drive.google.com/file/d/1BXhbwmNXAHZQbiHWLnAqiwFR5n7BoVPF/view?usp=drive_link)
-  focal_point: Right
+
 
 ---
 
-We kicked off the day with Yifu presenting his work at the CU Boulder NLP meeting. Next, we embraced Denver’s first snowstorm by heading to Red Rocks for a snowy hike, creating unforgettable memories against the scenic, snow-dusted backdrop. The excitement continued at Round1, where we enjoyed rounds of bowling and arcade games, fueling friendly competition and laughter (Kudos to everyone who hitted even numbers as the final scores). 
+We kicked off the day with Yifu presenting his work at the CU Boulder NLP meeting. Next, we embraced Denver’s first snowstorm by heading to Red Rocks for a snowy hike, creating unforgettable memories against the scenic, snow-dusted backdrop. 
 
-![Maya's victory posture](https://drive.google.com/file/d/1wvD-kEOAdo0R3pKVGiHYohGMbROclUww/view?usp=drive_link)
+![Red Rock](https://drive.google.com/uc?export=view&id=1BXhbwmNXAHZQbiHWLnAqiwFR5n7BoVPF)
+
+The excitement continued at Round1, where we enjoyed rounds of bowling and arcade games, fueling friendly competition and laughter (Kudos to everyone who hitted even numbers as the final scores). 
+
+![Maya's victory posture](https://drive.google.com/uc?export=view&id=1wvD-kEOAdo0R3pKVGiHYohGMbROclUww)
+
 We capped off the day with a feast at a KBBQ + Hotpot dinner, warming up with delicious food and shared stories—a perfect end to an incredible first hangout! 
