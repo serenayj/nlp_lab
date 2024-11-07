@@ -34,24 +34,6 @@ image:
   caption: 'Selfie at Red Rock with snow' [Red Rock](https://drive.google.com/file/d/1BXhbwmNXAHZQbiHWLnAqiwFR5n7BoVPF/view?usp=drive_link)
   focal_point: Right
 
-# url_code: ''
-# url_pdf: ''
-# url_slides: ''
-# url_video: ''
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides:
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
 ---
 
 We kicked off the day with Yifu presenting his work at the CU Boulder NLP meeting. Next, we embraced Denver’s first snowstorm by heading to Red Rocks for a snowy hike, creating unforgettable memories against the scenic, snow-dusted backdrop. The excitement continued at Round1, where we enjoyed rounds of bowling and arcade games, fueling friendly competition and laughter (Kudos to everyone who hitted even numbers as the final scores). 
