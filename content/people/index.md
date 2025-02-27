@@ -14,7 +14,7 @@ sections:
           - Principal Investigators
           - Researchers
           - Grad Students
-          - Research Interns
+          - Research Intern
           # - Administration
           - Alumni
       sort_by: Params.last_name
