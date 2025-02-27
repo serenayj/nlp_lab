@@ -1,6 +1,6 @@
 ---
-title: Engaging with AI: Bridging the Hype and the Potential of AI in Healthcare
-date: 2024-10-19
+title: Engaging with AI Conference
+date: 2025-02-27
 ---
 
 
