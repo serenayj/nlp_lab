@@ -10,7 +10,7 @@ last_name: Hu
 superuser: true
 
 # Role/position
-role: NLP Research Intern
+role: Grad Students
 
 # Organizations/Affiliations
 organizations:
