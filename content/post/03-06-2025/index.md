@@ -11,8 +11,11 @@ With several ongoing RL-related projects in our lab and a growing need for struc
 This seminar is open to anyone interested in reinforcement learning, whether you're a beginner or already working on RL research. No prior experience is required—just curiosity and enthusiasm! Note that we are currently limiting to trainees, staffs and faculty in CU Anschutz.  
 
 Seminar Details
+
 📅 Start Date: March 18, 2025
-📖 Format: Reading + discussion (see the full schedule [here](https://github.com/LARK-NLP-Lab/Reinforcement_Learning_Seminar))
+
+📖 Format: Reading + discussion. We will cover the Sutton & Barto textbook, and some LLM relevant readings (see the full schedule [here](https://github.com/LARK-NLP-Lab/Reinforcement_Learning_Seminar))
+
 📍 Where: LARK Lab & Virtual Option Available (AHSB, Room TBD)
 
 We welcome participants from within and outside the lab! Fellow PIs, feel free to share this with anyone who might be interested.
