@@ -25,10 +25,12 @@ Your presentation will be divided into two main components:
 
 ## 2. Expectations and Best Practices
 - **Clarity and Depth:** While technical rigor is important, we also value clarity. Ensure your presentation is accessible while still maintaining depth.
+- **Details Matter**: Details matter. You don't need to present all details (present the critical details), but "devils in the details" has a reasoning—you need to be familiar with the details as if you wrote and implemented them.
 - **Use of External Resources:** You are welcome to use online resources (e.g., YouTube videos, ChatGPT, blog posts) to enhance your understanding of the paper. We appreciate candidates who can effectively leverage tools to learn quickly and synthesize insights.
 - **Critical Thinking:** We are looking for an active thinker—someone who not only engages with ideas but also critiques them, connects them to broader research themes, and sparks new discussions.
 - **Broader Context:** If possible, explore related work and position the paper within the field.
 - **Code Exploration (Optional but Encouraged):** If time permits, diving into the code implementation of the paper can be a great way to gain deeper insights.
+
 
 ## 3. Interactive Discussion
 - Expect questions throughout your presentation. We appreciate open-ended discussions where we can learn from each other.
