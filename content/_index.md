@@ -18,7 +18,7 @@ sections:
       title: Openings 
       subtitle:
       text: |
-         As the first NLP research lab at CU-Anschutz DBMI, we are currently seeking passionate individuals eager to make a significant impact on NLP and AI in health, with openings available for Postdoctoral Researchers, PhD Students, Data Scientists, and Research Interns. We are currently recruiting for [**postdocs**](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=36284&lang=en). For other roles, **apply here**: [link](https://forms.gle/DWRmJ86RERBgqqVz9)!
+         As the first NLP research lab at CU-Anschutz DBMI, we welcome passionate individuals eager to make a significant impact on NLP and AI in health to join our team! Currently, we have filled up our postdoc and research intern positions. If you like to be informed for future opportunities, **apply here**: [link](https://forms.gle/DWRmJ86RERBgqqVz9)!
       image:
           filename: lab_people_0905.jpg
     
