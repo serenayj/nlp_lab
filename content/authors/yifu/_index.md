@@ -10,7 +10,7 @@ last_name: Wu
 superuser: true
 
 # Role/position
-role: NLP Scientist
+role: NLP Scientist (current: Amazon Alexa Applied Scientist)
 
 # Organizations/Affiliations
 organizations:
