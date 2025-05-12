@@ -10,7 +10,7 @@ summary: We bid a heartfelt farewell to Dr. Yifu Wu, with LARK Lab Spring 2025 m
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
+date: '2025-04-04T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
