@@ -7,10 +7,10 @@ first_name: Shiyue
 last_name: Hu
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Grad Students
+role: Grad Student; NLP Research Intern
 
 # Organizations/Affiliations
 organizations:
