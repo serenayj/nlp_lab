@@ -1,5 +1,5 @@
 ---
-title: title: Advancing Trustworthy LLM Summarization in Clinical Domains: Current State, A Novel Instrument, and LLM-as-a-Judge    
+title: Advancing Trustworthy LLM Summarization in Clinical Domains -- Current State, A Novel Instrument, and LLM-as-a-Judge     
 date: 2025-05-21
 ---
 
