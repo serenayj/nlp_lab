@@ -5,13 +5,13 @@ date: 2025-05-21
 
 How Do We Know a Clinical Summary is Good?
 
-Having spent years working on summarization evaluation in my PhD (before LLM era), I know just how hard it is: **There is no single “correct” summary**—different summaries may emphasize different relevant points, and human judgment varies. The challenge is compounded by knowledge gaps, reasoning variability, and human biases. 
+Having spent years working on summarization evaluation in my PhD (before LLM era), I know just how hard it is: **There is no single "correct" summary**—different summaries may emphasize different relevant points, and human judgment varies. The challenge is compounded by knowledge gaps, reasoning variability, and human biases. 
 
-**In high-stakes domains like healthcare, a “pretty good” summary isn’t good enough.** When clinical decisions hinge on what a large language model (LLM) chooses to summarize—or omit—**rigorous, trustworthy evaluation is essential.**
+**In high-stakes domains like healthcare, a "pretty good" summary isn’t good enough.** When clinical decisions hinge on what a large language model (LLM) chooses to summarize—or omit—**rigorous, trustworthy evaluation is essential.**
 
 At LARK Lab, we’ve been tackling this challenge head-on through a **series of studies** focused on evaluating LLM-generated clinical text summaries. Clinical summarization isn't just about fluency or coherence. It’s about aligning with physician reasoning, avoiding hallucinations, and reflecting the complexity of patient care. 
 
-To address this, we’ve launched a three-part research program:
+To address this, we have launched a three-part research program:
 
 🔍 **1. Current State-of-the-art in Clinical Summarization Evaluation **  
 We began by systematically examining the state of LLM summarization evaluation, both **traditional metrics** like ROUGE and BERTScore, and **alignment-based methods** involving human preference. Our analysis revealed deep limitations in current metrics when applied to clinical text, where factual correctness and clinical relevance are non-negotiable. Our paper has been published in npj Health System [Paper](https://www.nature.com/articles/s44401-024-00011-2).  
