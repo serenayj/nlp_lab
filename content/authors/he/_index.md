@@ -1,6 +1,6 @@
 ---
 # Display name
-title: He Cheng
+title: He Cheng, PhD
 
 # Full Name (for SEO)
 first_name: He 
@@ -54,5 +54,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher Staff
+  - Postdoctoral Researchers
 --- 
