@@ -16,7 +16,7 @@ sections:
           - Researchers
           - Research Intern
           - Postdoctoral Researchers
-          - Grad Students Interns
+          - Grad Student Interns
           # - Administration
           - Alumni
       sort_by: Params.last_name
