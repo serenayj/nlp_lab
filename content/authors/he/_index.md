@@ -46,7 +46,7 @@ social:
    # link: https://twitter.com/
   - icon: google-scholar
     icon_pack: ai
-   link: https://scholar.google.co.uk/citations?](https://scholar.google.com/citations?user=zqYwQ5UAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=zqYwQ5UAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/Serendipity618
