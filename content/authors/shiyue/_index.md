@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shiyue Hu
+title: Shiyue Hu, MS Candidate
 
 # Full Name (for SEO)
 first_name: Shiyue 
