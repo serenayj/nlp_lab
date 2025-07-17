@@ -20,7 +20,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-
+    
+education:
+  courses:
+    - course: PhD in Computer Science 
+      institution: Utah State University
+      year: 2024
+    - course: MS in Electrical and Computer Engineering 
+      institution: State University of New York at Binghamton
+      year: 2020
+    - course: BE in Mechanical Engineering 
+      institution: China University of Petroleum
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -33,12 +44,12 @@ social:
   #- icon: twitter
   #  icon_pack: fab
    # link: https://twitter.com/
- # - icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?
- # - icon: github
-   # icon_pack: fab
-  #  link: https://github.com/MorganPena
+  - icon: google-scholar
+    icon_pack: ai
+   link: https://scholar.google.co.uk/citations?](https://scholar.google.com/citations?user=zqYwQ5UAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Serendipity618
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
