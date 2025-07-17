@@ -30,12 +30,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:maya.kruse@cuanschutz.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?
+ # - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/
+  #- icon: google-scholar
+ #   icon_pack: ai
+ #   link: https://scholar.google.co.uk/citations?
   - icon: github
     icon_pack: fab
     link: https://github.com/maykru
