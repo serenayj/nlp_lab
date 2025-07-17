@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Maya Kruse
+title: Maya Kruse, MS
 
 # Full Name (for SEO)
 first_name: Maya 
