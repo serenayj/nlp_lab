@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Morgan Pena
+title: Morgan Pena, MPH
 
 # Full Name (for SEO)
 first_name: Morgan 
