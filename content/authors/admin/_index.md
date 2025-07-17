@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yanjun Gao
+title: Yanjun Gao, PhD
 
 # Full Name (for SEO)
 first_name: Yanjun 
