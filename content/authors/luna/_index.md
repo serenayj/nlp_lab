@@ -29,16 +29,16 @@ bio: #My research interests include Natural Language Generation, Semantic Repres
 social:
   - icon: envelope
     icon_pack: fas
-    link: #'mailto:maya.kruse@cuanschutz.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?
-  - icon: github
-    icon_pack: fab
-    link: #https://github.com/maykru
+    link: #'mailto:luna.peck@cuanschutz.edu'
+  #- icon: twitter
+  #  icon_pack: fab
+ #   link: https://twitter.com/
+ # - icon: google-scholar
+ #   icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?
+#  - icon: github
+#    icon_pack: fab
+#    link: #https://github.com/maykru
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
