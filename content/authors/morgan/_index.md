@@ -20,7 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-
+education:
+  courses:
+    - course: MPH in Applied Biostatistics
+      institution: Colorado School of Public Health; CU Anschutz
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -57,6 +61,6 @@ user_groups:
   - Researcher Staff
 --- 
 
-
+Morgan Peña is a Project Manager and Senior Clinical Research Coordinator at the Department of Biomedical Informatics at the University of Colorado Anschutz Campus. Prior to this role, she served as a Data Manager and Data Analyst on a legislative study supporting rural healthcare clinics in the treatment of opioid use disorder. She has over six years of research experience spanning psychology, neuropsychology, contraception, and substance use. Her current work focuses on coordinating research efforts and supporting the integration of artificial intelligence and natural language processing into healthcare. 
 
  
