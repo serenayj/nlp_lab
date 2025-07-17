@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luna Peck
+title: Luna Peck, MS
 
 # Full Name (for SEO)
 first_name: Luna 
