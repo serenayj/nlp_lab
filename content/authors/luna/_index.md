@@ -20,7 +20,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: #My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
 
+interests:
+  - Computational Linguistics
+  - Representations / Representation Learning
+  - Explainable AI
 
+education:
+  courses:
+    - course: Master of Science in Computational Linguistics
+      institution: University of Colorado, Boulder
+      year: 2025
+    - course: Bachelor of Science in Computer Science
+      institution: Wichita State University
+      year: 2019
+      
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -29,16 +42,16 @@ bio: #My research interests include Natural Language Generation, Semantic Repres
 social:
   - icon: envelope
     icon_pack: fas
-    link: #'mailto:luna.peck@cuanschutz.edu'
+    link: #'mailto:lunapeck@student.ubc.ca'
   #- icon: twitter
   #  icon_pack: fab
  #   link: https://twitter.com/
  # - icon: google-scholar
  #   icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?
-#  - icon: github
-#    icon_pack: fab
-#    link: #https://github.com/maykru
+  - icon: github
+    icon_pack: fab
+    link: #https://github.com/lunaria-bee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,3 +69,5 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
+
+Luna Peck is a Student Researcher interning with the LARK Lab for Summer 2025. Combining an industry background in embedded systems and an academic background in computational linguistics, Luna enjoys tackling the technical challenges posed by language technology and other AI systems. Currently, she is developing tools to help doctors, nurses, and other medical professionals create custom infographics tailored to specific patients. Beginning Fall 2025, Luna will pursue a PhD in Computer Science at the University of British Columbia, studying the fundamental mathematics of machine learning and neural network explainability under the supervision of Dr. Danica Sutherland.
