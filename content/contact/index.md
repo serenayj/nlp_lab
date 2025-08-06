@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         
-      email: yanjun dot gao dot cuanschutz dot edu 
+      email: Yanjun.Gao@cuanschutz.edu 
       #phone: 888 888 88 88
       address:
         street: 1890 N Revere Ct
@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '39.7459'
-        longitude: '-104.8389'
+        latitude: '39.74563705776159'
+        longitude: '-104.84181780140804'
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
