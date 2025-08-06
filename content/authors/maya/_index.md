@@ -20,6 +20,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: #My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
 
+#interests:
+  #- AI for healthcare 
+    
+education:
+  courses:
+    - course: MS in Computational Linguistics 
+      institution: Brandeis University
+      year: 2024
+    - course: BA in Computational Linguistics
+      institution: Heinrich Heine University Düsseldorf
+      year: 2021
 
 
 # Social/Academic Networking
@@ -57,3 +68,4 @@ user_groups:
   - Researcher Staff
 ---
 
+Maya Kruse holds a Master’s degree in Computational Linguistics from Brandeis University. She has previously interned at Harvard Medical School, where she worked on NLP applications in the medical domain. Her current research at the LARK lab focuses on large language models (LLMs), including uncertainty estimation for clinical diagnoses and automatic summarization of patient data. 
