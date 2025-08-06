@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
+#bio: My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
 
 interests:
   - Natural Language Processing 
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:yanjun.gao@cuanschutz.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Serena_pancakes
