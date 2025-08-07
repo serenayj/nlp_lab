@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shiyue Hu, MS Candidate
+title: Shiyue Hu, MA; MS Candidate
 
 # Full Name (for SEO)
 first_name: Shiyue 
@@ -20,6 +20,21 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: #My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
 
+interests:
+  - Natural Language Processing
+  - Mechanistic Interpretability
+  - LLM Reasoning 
+    
+education:
+  courses:
+    - course: MS in Computational Linguistics 
+      institution: University of Colorado Boulder
+    - course: MA in Applied Linguistics
+      institution: Teachers College at Columbia University
+      year: 2024
+    - course: BA in English Language and Literature
+      institution: Huazhong University of Science and Technology
+      year: 2022
 
 
 # Social/Academic Networking
@@ -29,7 +44,7 @@ bio: #My research interests include Natural Language Generation, Semantic Repres
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'shiyue.hu@cuanschutz.edu'
+    link: 'Shiyue.Hu@colorado.edu'
  # - icon: twitter
  #   icon_pack: fab
  #   link: https://twitter.com/
@@ -56,3 +71,5 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
+
+Shiyue Hu is pursuing a Master’s degree in Computational Linguistics at the University of Colorado Boulder. She has a background in linguistics and natural language processing for educational applications. Her current research at the LARK Lab focuses on applying AI in healthcare, including long-form clinical text summarization and mechanistic interpretability to investigate bias in large language models.
