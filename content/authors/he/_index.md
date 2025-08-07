@@ -73,4 +73,4 @@ user_groups:
   - Postdoctoral Researchers
 --- 
 
-Dr. He Cheng earned his Ph.D. in Computer Science from Utah State University. He also holds an M.S. in Electrical and Computer Engineering from the State University of New York at Binghamton and a B.E. in Mechanical Engineering from the China University of Petroleum. His research focuses on AI for healthcare, particularly neural-symbolic learning and large language model (LLM) reasoning. At DBMI, he is developing robust and trustworthy LLM applications for biomedical and clinical use. Outside of work, he enjoys hiking and exploring new places.
+Dr. He Cheng earned his Ph.D. in Computer Science from Utah State University. His research focuses on AI for healthcare, particularly neural-symbolic learning and large language model (LLM) reasoning. At the LARK Lab, he is developing robust and trustworthy LLM applications for biomedical and clinical use. Outside of work, he enjoys hiking and exploring new places.
