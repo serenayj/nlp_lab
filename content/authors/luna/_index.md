@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: #'mailto:lunapeck@student.ubc.ca'
+    link: 'mailto:lunapeck@student.ubc.ca'
   #- icon: twitter
   #  icon_pack: fab
  #   link: https://twitter.com/
