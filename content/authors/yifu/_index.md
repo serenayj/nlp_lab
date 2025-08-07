@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yifu Wu
+title: Yifu Wu, PhD
 
 # Added line - this will make your name link to your personal website
 website: "https://nnonno.github.io/personal_webpage"
@@ -33,7 +33,7 @@ social:
     link: https://nnonno.github.io/personal_webpage
   - icon: envelope
     icon_pack: fas
-    link: 'wuyifu2f@gmail.com'
+    link: 'mailto:wuyifu2f@gmail.com'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DJw9oO0AAAAJ&hl=en
