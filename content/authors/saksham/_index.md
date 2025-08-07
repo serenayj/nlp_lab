@@ -29,7 +29,7 @@ bio: #My research interests include Natural Language Generation, Semantic Repres
 social:
   - icon: envelope
     icon_pack: fas
-    link: #'mailto:saksham.khatwani@cuanschutz.edu'
+    link: 'mailto:sakh1520@colorado.edu'
  # - icon: twitter
   #  icon_pack: fab
 #    link: https://twitter.com/
