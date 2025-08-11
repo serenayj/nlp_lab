@@ -51,9 +51,9 @@ social:
  # - icon: google-scholar
  #   icon_pack: ai
   #  link: https://scholar.google.co.uk/citations?
- # - icon: github
- #   icon_pack: fab
- #   link: https://github.com
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Shiyue-Hu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,4 +72,4 @@ user_groups:
   - Grad Students
 ---
 
-Shiyue Hu is pursuing a Master’s degree in Computational Linguistics at the University of Colorado Boulder. She has a background in linguistics and natural language processing for educational applications. Her current research at the LARK Lab focuses on applying AI in healthcare, including long-form clinical text summarization and mechanistic interpretability to investigate bias in large language models.
+Shiyue Hu is pursuing a Master’s degree in Computational Linguistics at the University of Colorado Boulder. She has a background in linguistics and natural language processing for educational applications. Her current research at the LARK Lab focuses on applying AI in healthcare, including long-form clinical text summarization and mechanistic interpretability to investigate bias in large language models. In the future, she hopes to continue developing AI systems for healthcare applications, with an emphasis on fairness, interpretability, and improving clinical decision support.
