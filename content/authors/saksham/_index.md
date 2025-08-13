@@ -19,8 +19,18 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: #My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
+interests:
+  - Explainable AI
+  - Neurosymbolic Methods
+  - Efficient AI
 
-
+education:
+  courses:
+    - course: MS in Computer Science
+      institution: University of Colorado Boulder
+    - course: B.Tech in Computer Science
+      institution: Maulana Azad National Institute of Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -29,7 +39,7 @@ bio: #My research interests include Natural Language Generation, Semantic Repres
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sakh1520@colorado.edu'
+    link: 'mailto:saksham.khatwani@colorado.edu'
  # - icon: twitter
   #  icon_pack: fab
 #    link: https://twitter.com/
@@ -56,3 +66,5 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
+
+Saksham Khatwani is pursuing a Master’s degree in Computer Science at the University of Colorado Boulder. He has a background in full-stack software engineering within the fintech industry. At CU Boulder, he has worked on projects involving low-resource languages and semantic meaning representations. His current research at the LARK Lab focuses on reinforcement learning from human feedback (RLHF) to fine-tune large language models that incorporate medical knowledge graphs for improved diagnostic prediction. In the future, he hopes to continue advancing neurosymbolic methods in NLP to make the training process of language models more efficient.
