@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 
-Luna Peck is a Student Researcher interning with the LARK Lab for Summer 2025. Combining an industry background in embedded systems and an academic background in computational linguistics, Luna enjoys tackling the technical challenges posed by language technology and other AI systems. Currently, she is developing tools to help doctors, nurses, and other medical professionals create custom infographics tailored to specific patients. Beginning Fall 2025, Luna will pursue a PhD in Computer Science at the University of British Columbia, studying the fundamental mathematics of machine learning and neural network explainability under the supervision of Dr. Danica Sutherland.
+Luna Peck worked with us as a Student Researcher intern during the Summer 2025. Her work centered on developing tools to help doctors, nurses, and other medical professionals create custom infographics tailored to specific patients. As of Fall 2025, Luna is pursuing a PhD in Computer Science at the University of British Columbia, studying the fundamental mathematics of machine learning and neural network explainability under the supervision of Dr. Danica Sutherland.
