@@ -1,6 +1,8 @@
 ---
 title: Chain-of-Thought (CoT) Distillation from An Information Bottleneck Perspective  
 date: 2024-05-16
+authors:
+  - admin
 ---
 
 
