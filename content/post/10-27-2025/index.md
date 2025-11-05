@@ -1,10 +1,10 @@
 ---
-title: AMIA 2025 Paper 
+title: AMIA 2025 NLP Working Group Pre-Symposium Workshop Paper Acceptance
 date: 2025-10-27
 ---
 
 
-We are excited to announce that our paper, “Efficient and Scalable Retrieval in Knowledge Graphs: From Single-Graph to Partitioned Multi-Graph Approaches,” has been accepted to the [AMIA 2025 NLP Working Group Pre-Symposium Workshop] (https://amia.org/education-events/amia-2025-annual-symposium)!
+We are excited to announce that our paper, “Efficient and Scalable Retrieval in Knowledge Graphs: From Single-Graph to Partitioned Multi-Graph Approaches,” has been accepted to the [AMIA 2025 NLP Working Group Pre-Symposium Workshop](https://amia.org/education-events/amia-2025-annual-symposium)!
 
 In this paper, we propose an efficient and scalable framework for multi-hop retrieval in knowledge graphs (KGs). Our framework transforms KG traversal into sparse matrix operations and extends it to handle very large KGs through degree-aware graph partitioning, cross-graph routing, and on-demand caching.
 
