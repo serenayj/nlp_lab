@@ -14,4 +14,9 @@ This research is a collaboration with:
   - Drs. Samantha Stonbraker and Elizabeth Goldberg (CU Anschutz)
   - Drs. Bingsheng Yao and Dakuo Wang (Northeastern University)
 
+Our Lab Team:
+  - Lead author: Maya Kruse
+  - Contributions: Yifu Wu
+  - Intern support: Shiyue Hu and Nicholas Derby
+
 Please stop by our poster during the poster session on November 18, 2025, from 5:00 to 6:30 PM.
