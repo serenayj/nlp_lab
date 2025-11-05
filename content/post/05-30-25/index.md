@@ -1,6 +1,8 @@
 ---
 title: New ACL Paper on GPT-2 Mechanistic Interpretability and Biases in Multiple Choice QA  
 date: 2025-05-21
+authors:
+  - admin
 ---
 
 We’re excited to announce that our paper **Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions** on has been accepted to an upcoming ACL 2025! 
