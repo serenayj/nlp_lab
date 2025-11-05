@@ -1,6 +1,8 @@
 ---
 title: Engaging with AI Conference
 date: 2025-02-27
+authors:
+  - admin
 ---
 
 
