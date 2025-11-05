@@ -11,9 +11,9 @@ In this paper, we propose an efficient and scalable framework for multi-hop retr
 Multi-hop traversal in KGs is a fundamental operation in many LLM+KG scenarios, including retrieval-augmented generation (RAG), knowledge verification, and reasoning. This work contributes to the integration of KGs with LLMs and enables many downstream applications.
 
 This research is a collaboration with:
--Dr. Majid Afshar (University of Wisconsin–Madison)
--Dr. Dmitriy Dligach (Loyola University Chicago)
--Dr. Timothy Miller (Boston Children’s Hospital)
+  Dr. Majid Afshar (University of Wisconsin–Madison)
+  Dr. Dmitriy Dligach (Loyola University Chicago)
+  Dr. Timothy Miller (Boston Children’s Hospital)
 
 Join us for the lightning talk! Dr. He Cheng will present our work on November 16 at 11:00 AM.
 Slides and code will be released soon, stay tuned!
