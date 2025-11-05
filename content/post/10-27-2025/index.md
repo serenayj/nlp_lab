@@ -1,5 +1,5 @@
 ---
-title: AMIA 2025 NLP Working Group Pre-Symposium Workshop Paper Acceptance
+title: AMIA 2025 NLP Working Group Pre-Symposium - Paper Acceptance
 date: 2025-10-27
 ---
 
