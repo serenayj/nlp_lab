@@ -14,7 +14,7 @@ Our Lab Team:
   - Maya Kruse (Lead Author)
   - Shiyue Hu
   - Nicholas Derby
-  - Yifu Wu
+  - Dr. Yifu Wu
   - Dr. Yanjun Gao (Principal Investigator)
 
 Collaborators:
