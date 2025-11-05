@@ -1,5 +1,5 @@
 ---
-title: AMIA 2025 NLP Working Group Pre-Symposium - Paper Acceptance
+title: AMIA 2025 NLP Working Group Pre-Symposium - Lightning talk
 date: 2025-10-27
 ---
 
@@ -16,4 +16,4 @@ This research is a collaboration with:
   Dr. Timothy Miller (Boston Children’s Hospital)
 
 Join us for the lightning talk! Dr. He Cheng will present our work on November 16 at 11:00 AM.
-Slides and code will be released soon, stay tuned!
+Slides and code will be released soon. Stay tuned!
