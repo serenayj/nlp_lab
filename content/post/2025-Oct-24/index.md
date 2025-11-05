@@ -1,6 +1,7 @@
 ---
 title: AMIA 2025 NLP Annual Symposium - Poster
 date: 2025-10-24
+author: maya
 ---
 
 
@@ -22,14 +23,3 @@ Collaborating Authors:
   - Dr. Bingsheng Yao and Dr. Dakuo Wang – Northeastern University
 
 Please stop by our poster during the poster session on November 18, 2025, from 5:00 to 6:30 PM.
-
-authors:
-  - maya
-  - shiyue
-  - Nicholas Derby
-  - yifu
-  - Samantha Stonbraker
-  - Bingsheng Yao
-  - Dakuo Wang
-  - Elizabeth Goldberg
-  - admin
