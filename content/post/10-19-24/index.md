@@ -1,7 +1,8 @@
 ---
 title: Our Lab Featured in a Recent Interview about How AI is Shaping Critical Thinking at CU Anschutz
 date: 2024-10-19
-author: admin
+authors:
+  - admin
 ---
 
 
