@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science 
-      institution: University of Twente, Netherlands
+      institution: University of Twente - Netherlands
       year: 2025
     - course: MS in Informatics Engineering
-      institution: Teikyo University, Japan
+      institution: Teikyo University - Japan
       year: 2021
     - course: BE in Telecommunication
-      institution: Ho Chi Minh City University of Technology, Vietnam
+      institution: Ho Chi Minh City University of Technology - Vietnam
       year: 2018
 
 # Social/Academic Networking
