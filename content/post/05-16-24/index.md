@@ -1,6 +1,8 @@
 ---
 title: One paper about Chain-of-Thought Distillation is accepted to ACL 2024 as Finding!  
 date: 2024-05-16
+authors:
+  - admin
 ---
 
 We are thrilled to announce that our paper, "Learning to Maximize Mutual Information for Chain-of-Thought Distillation," has been accepted to the prestigious Association for Computational Linguistics (ACL) 2024 conference as a Findings paper!  <!--more-->
