@@ -1,7 +1,7 @@
 ---
 title: AMIA 2025 NLP Annual Symposium - Poster
 date: 2025-10-24
-author: 
+authors:
   - maya
   - shiyue
   - yifu
