@@ -1,6 +1,8 @@
 ---
 title: Advancing Trustworthy LLM Summarization in Clinical Domains -- Current State, A Novel Instrument, and LLM-as-a-Judge     
 date: 2025-05-21
+authors:
+  - admin
 ---
 
 How Do We Know a Clinical Summary is Good?
