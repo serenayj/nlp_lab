@@ -21,7 +21,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
+#bio: My research interests include Natural Language Generation, Semantic Representation, Summarization Evaluation, Graph-based NLP, and AI applications in medicine and education. 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
