@@ -1,6 +1,8 @@
 ---
 title: One paper about Large Language Models for Tabular Data Embedding is accepted to EMNLP 2024 as Findings!  
 date: 2024-09-20
+authors:
+  - admin
 ---
 
 We are thrilled to announce that our paper, "When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications?" has been accepted to the Empirical Methods on Natural Language Processing (EMNLP) 2024 conference as a Findings paper!  <!--more-->
