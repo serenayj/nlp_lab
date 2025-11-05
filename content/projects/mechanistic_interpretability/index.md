@@ -1,6 +1,8 @@
 ---
 title: Analyzing GPT-2's Positional Bias on Multiple Choice Question Answering using Mechanistic Interpretability  
 date: 2024-05-07
+authors:
+  - admin
 ---
 
 Large Language Models (LLMs) like GPT-4 have demonstrated significant advancements in tasks such as Multiple Choice Question (MCQ) Answering, including those within medical domains like MedQA. However, our recent research reveals a positional bias in earlier models such as GPT-2, where they consistently select the first answer choice ("A") regardless of the actual correct answer's position. This bias substantially undermines their effectiveness in MCQ scenarios.
