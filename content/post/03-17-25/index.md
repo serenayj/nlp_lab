@@ -1,6 +1,8 @@
 ---
 title: General Instructions for Giving a Job Talk at LARK Lab
 date: 2025-03-17
+authors:
+  - admin
 ---
 
 # General Instructions for Giving a Job Talk at LARK Lab
