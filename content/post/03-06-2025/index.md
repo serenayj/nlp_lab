@@ -1,6 +1,8 @@
 ---
 title: LARK Lab Launches Reinforcement Learning Seminar!   
 date: 2025-03-06
+authors:
+  - admin
 ---
 
 We are excited to announce the launch of our Reinforcement Learning (RL) Seminar, a biweekly reading and discussion series focused on foundational RL concepts and applications.
