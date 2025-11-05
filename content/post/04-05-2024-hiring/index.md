@@ -1,6 +1,8 @@
 ---
 title: The LARK Lab at Department of Biomedical Informatics, CU-Anschutz has several openings! 
 date: 2024-05-04
+authors:
+  - admin
 ---
 
 We are hiring!!!   
