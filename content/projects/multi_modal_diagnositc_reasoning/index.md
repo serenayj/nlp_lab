@@ -1,6 +1,8 @@
 ---
 title: Multi-modal Clinical Diagnostic Reasoning 
 date: 2024-05-04
+authors:
+  - admin
 ---
 
 Diagnostic errors affect 12 million patients in the U.S. and contribute to 80,000 deaths per year. The main causes for diagnostic errors include cognitive biases introduced by healthcare providers, miscommunication between healthcare teams, lack of access to key data, and not recognizing time-sensitive data in the electronic health record (EHR). The cognitive burden from information overload in the EHR cause clinicians to take decisional shortcuts with biased heuristics and miss critical data in the EHR, leading to missed opportunities for timely and accurate diagnoses. Artificial Intelligence (AI) and clinical Natural Language Processing (cNLP) provide opportunity to help understand medical text and can automate EHR analysis, pointing to the promising direction of invoking medical knowledge and clinical experience as humans do. However, the majority of the cNLP tasks are not designed for bedside application to generate diagnoses and augment bedside decision-making. 
