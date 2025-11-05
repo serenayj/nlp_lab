@@ -1,6 +1,7 @@
 ---
 title: AMIA 2025 NLP Annual Symposium - Lightning talk
 date: 2025-10-27
+author: he
 ---
 
 
