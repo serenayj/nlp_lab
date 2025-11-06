@@ -2,7 +2,7 @@
 title: GenAI4Health workshop at NeurIPS 2025 - Presentation
 date: 2025-11-03
 authors:
-  - saksham
+  - saksham_khatwani
   - he_cheng
   - admin
 ---
