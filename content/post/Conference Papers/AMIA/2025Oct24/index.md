@@ -15,13 +15,6 @@ In this paper, we systematically evaluate several state-of-the-art open-source L
 
 We find that while longer context windows improve input integration, they do not consistently enhance clinical reasoning, particularly in temporal progression and the prediction of rare diseases. This work establishes a foundation for evaluating LLMs on complex, multi-modal clinical data and highlights key challenges in achieving temporally coherent clinical reasoning.
 
-Authors (LARK Lab):
-  - Maya Kruse (Lead Author)
-  - Shiyue Hu
-  - Nicholas Derby
-  - Dr. Yifu Wu
-  - Dr. Yanjun Gao (Principal Investigator)
-
 Collaborating Authors:
   - Dr. Samantha Stonbraker and Dr. Elizabeth Goldberg – University of Colorado Anschutz Medical Campus
   - Dr. Bingsheng Yao and Dr. Dakuo Wang – Northeastern University
