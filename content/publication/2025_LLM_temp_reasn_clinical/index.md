@@ -8,8 +8,8 @@ title: "Large Language Models with Temporal Reasoning for Longitudinal Clinical 
 authors:
   - maya
   - shiyue
-  - nicholas_derby
-  - yifu
+  - nicolas_derby
+  - yifu_wu
   - Samantha Stonbraker
   - Bingsheng Yao
   - Dakuo Wang
