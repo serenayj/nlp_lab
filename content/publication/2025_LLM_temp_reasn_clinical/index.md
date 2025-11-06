@@ -6,7 +6,7 @@ title: "Large Language Models with Temporal Reasoning for Longitudinal Clinical 
 # and it will be replaced with their full name and linked to their profile.
 # example: admin 
 authors:
-  - maya
+  - maya_kruse
   - shiyue_hu
   - nicolas_derby
   - yifu_wu
