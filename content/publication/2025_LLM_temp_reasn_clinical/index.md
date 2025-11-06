@@ -7,7 +7,7 @@ title: "Large Language Models with Temporal Reasoning for Longitudinal Clinical 
 # example: admin 
 authors:
   - maya
-  - shiyue
+  - shiyue_hu
   - nicolas_derby
   - yifu_wu
   - Samantha Stonbraker
