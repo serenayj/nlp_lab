@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nicolas Derby, MS Candidate
+title: Nicolas Derby, MS
 # Full Name (for SEO)
 first_name: Nicolas 
 last_name: Derby
