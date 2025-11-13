@@ -80,7 +80,7 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-Why does this matter for our lab?
+Why does this matter for our lab? 
   -  The theme aligns directly with our interest in LLM calibration and uncertainty estimation, especially in applied domains (e.g., clinical or critical‐care settings).
   -  It shifts the lens from “one LLM behaving badly/unreliable” to “multiple LLMs collaborating/being aggregated”. This opens new design space: ensemble strategies, subset selection, metrics beyond accuracy.
   -  The use of an information‐theoretic metric (JSD) for subset identification is elegant and theoretically grounded — so there may be opportunities to generalize or adapt to our own multi-model pipelines (e.g., multi‐agent LLMs in ICU decision support).
