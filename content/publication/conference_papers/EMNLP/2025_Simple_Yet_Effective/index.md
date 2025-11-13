@@ -33,7 +33,7 @@ publication_types: ['paper-conference']
 publication: In *Findings of the Association of Computational Linguistics Empirical Methods in Natural Language Processing 2024*
 publication_short: In *Findings of EMNLP 2024*
 
-abstract: Large language models (LLMs) are increasingly used in high-stakes settings, and a key question is: how confident are they in their predictions? This paper argues that most prior work focuses on calibration and uncertainty quantification for individual models, and often ignores the potential benefit of model diversity.
+abstract: Large language models (LLMs) are increasingly used in high-stakes settings, and a key question is- how confident are they in their predictions? This paper argues that most prior work focuses on calibration and uncertainty quantification for individual models, and often ignores the potential benefit of model diversity.
 
 # Summary. An optional shortened abstract.
 #summary:
