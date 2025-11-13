@@ -33,7 +33,7 @@ publication_types: ['paper-conference']
 publication: In *Findings of the Association of Computational Linguistics Empirical Methods in Natural Language Processing 2024*
 publication_short: In *Findings of EMNLP 2024*
 
-abstract:  Large language models (LLMs) are increasingly used in high-stakes settings, and a key question is: how confident are they in their predictions? This paper argues that most prior work focuses on calibration and uncertainty quantification for individual models, often ignoring the potential benefits of model diversity. The authors posit that because different LLMs are trained differently (and language itself is Zipfian), their predictions will differ in complementary ways. The key idea: leverage that diversity by aggregating subsets of LLMs to produce better uncertainty estimates. To this end, the paper proposes MUSE (Multi-LLM Uncertainty via Subset Ensembles) — an information-theoretic method that utilizes the Jensen-Shannon Divergence (JSD) to select well-calibrated subsets of LLMs and then aggregate their predictions. Empirically, the work shows that on binary prediction tasks, using MUSE improves both calibration and predictive performance compared to a single model or a naive ensemble. Additionally, they explore using MUSE’s outputs to fine-tune (via chain-of-thought distillation) an LLM specifically for calibration.
+abstract: Large language models (LLMs) are increasingly used in high-stakes settings, and a key question is: how confident are they in their predictions? This paper argues that most prior work focuses on calibration and uncertainty quantification for individual models, and often ignores the potential benefit of model diversity.
 
 # Summary. An optional shortened abstract.
 #summary:
