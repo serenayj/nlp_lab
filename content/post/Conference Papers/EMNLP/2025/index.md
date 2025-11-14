@@ -1,5 +1,5 @@
 ---
-title: A Milestone Year: LARK Lab’s EMNLP 2025 with Two Papers!  
+title: A Milestone Year: LARK Lab’s EMNLP 2025 with Two Papers
 date: 2024-11-12
 authors:
   - maya_kruse
