@@ -40,11 +40,12 @@ On the MUSE paper, we collaborate with the University of Wisconsin-Madison:
   - Dr. Guanhua Chen
 They are our lab's long-term collaborators.
 
-For our Findings paper, we thank our internal (CU Anschutz) clinical collaborators: 
+For our Findings paper, we thank:
+ Internal - CU Anschutz
   - Dr. Elizabeth Goldberg (Emergency Medicine)
   - Dr. Samantha Stonbraker (College of Nursing)
 
-We thank Northeastern University:
+ Northeastern University 
   - Dr. Bingsheng Yao
   - Dr. Dakuo Wang
 For contributing their valuable insights from NLP and HCI experiences. 
