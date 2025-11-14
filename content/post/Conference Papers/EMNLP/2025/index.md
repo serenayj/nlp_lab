@@ -1,6 +1,6 @@
 ---
 title: A Milestone Year - LARK Lab’s EMNLP 2025 with Two Papers!
-date: 2024-11-12
+date: 2025-11-12
 authors:
   - maya_kruse
   - saksham_khatwani
@@ -34,7 +34,7 @@ Together, these studies form the basis of our ongoing work on Safe and Transpare
 :star2: Acknowledgement:
 We are deeply grateful to our collaborators and co-authors whose expertise and dedication made these works possible.
 
-On the MUSE paper, we collaborate with University of Wisconsin-Madison: 
+On the MUSE paper, we collaborate with the University of Wisconsin-Madison: 
   - Dr. Majid Afshar
   - Dr. Anoop Mayampurath
   - Dr. Guanhua Chen
