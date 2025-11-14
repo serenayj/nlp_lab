@@ -1,5 +1,5 @@
 ---
-title: A Milestone Year: LARK Lab’s EMNLP 2025 with Two Papers
+title: A Milestone Year - LARK Lab’s EMNLP 2025 with Two Papers!
 date: 2024-11-12
 authors:
   - maya_kruse
@@ -24,14 +24,14 @@ Title: [Simple Yet Effective: An Information‑Theoretic Approach to Multi‑LLM
 Paper 2: Findings Track
 Title: [Large Language Models with Temporal Reasoning for Longitudinal Clinical Summarization and Prediction (Kruse et al., Findings EMNLP 2025)](https://www.larknlp.com/publication/conference_papers/emnlp/2025_simple_yet_effective/)
 
-Looking Ahead: Core Research Directions in LARK Lab
+:mag: Looking Ahead: Core Research Directions in LARK Lab
 These two papers represent the core pillars of our lab’s research agenda:
   - Uncertainty estimation and calibration in LLMs, ensuring that the model makes honest decisions.
   - Temporal reasoning and multi-modal understanding, enabling LLMs to interpret longitudinal and context-rich clinical data.
   - Knowledge-grounded generation and mechanistic interpretability, bridging foundational NLP with safe and transparent AI applications in healthcare.
 Together, these studies form the basis of our ongoing work on Safe and Transparent Diagnostic AI, supported by the National Library of Medicine (NLM) R00 award [LM014308], and will continue to shape our future grant projects and collaborations.
 
-Acknowledgement:
+:star2: Acknowledgement:
 We are deeply grateful to our collaborators and co-authors whose expertise and dedication made these works possible.
 
 On the MUSE paper, we collaborate with University of Wisconsin-Madison: 
