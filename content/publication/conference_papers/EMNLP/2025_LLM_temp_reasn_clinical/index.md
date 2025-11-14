@@ -51,13 +51,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2501.18724'
+url_pdf: 'https://aclanthology.org/2025.findings-emnlp.1128.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-#url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_source: 'https://aclanthology.org/2025.findings-emnlp.1128/'
 #url_video: 'https://www.youtube.com/watch?v=NX1nEm90mSQ&t=1s'
 
 # Featured image
