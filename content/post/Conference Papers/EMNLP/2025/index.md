@@ -45,7 +45,6 @@ For our Findings paper, we thank:
   - Dr. Elizabeth Goldberg (Emergency Medicine)
   - Dr. Samantha Stonbraker (College of Nursing)
 
- Northeastern University 
+ Northeastern University - For contributing their valuable insights from NLP and HCI experiences
   - Dr. Bingsheng Yao
   - Dr. Dakuo Wang
-For contributing their valuable insights from NLP and HCI experiences. 
