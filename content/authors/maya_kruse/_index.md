@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher Staff
+  - Alumni
 ---
 
-Maya Kruse holds a Master’s degree in Computational Linguistics from Brandeis University. She has previously interned at Harvard Medical School, where she worked on NLP applications in the medical domain. Her current research at the LARK lab focuses on large language models (LLMs), including uncertainty estimation for clinical diagnoses and automatic summarization of patient data. 
+Maya Kruse holds a Master’s degree in Computational Linguistics from Brandeis University. She has previously interned at Harvard Medical School, where she worked on NLP applications in the medical domain. While working with our lab, her research focuses on large language models (LLMs), including uncertainty estimation for clinical diagnoses and automatic summarisation of patient data. 
