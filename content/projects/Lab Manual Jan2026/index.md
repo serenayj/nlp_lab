@@ -134,5 +134,7 @@ Lab members are expected to:
 - Plan project timelines accordingly
 - Plan vacations around deadlines
 - Avoid scheduling vacations immediately before a deadline unless the submission is already ready or sufficient progress has been made to ensure on-time submission
+
 When possible, vacations should be planned after submissions, not before.
+
 If you are uncertain whether planned time off may conflict with a conference or grant deadline, discuss it with Yanjun or the project lead in advance.
