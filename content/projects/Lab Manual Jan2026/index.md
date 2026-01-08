@@ -19,7 +19,7 @@ The LARK Lab operates as a grant-centered research group, focusing on projects t
 
 ### Core Principles
 
-1.	Problem-Driven and Principle-Driven AI
+#### 1.	Problem-Driven and Principle-Driven AI
 
   At LARK, meaningful innovation begins with real problems and strong scientific principles.
   
@@ -31,7 +31,7 @@ The LARK Lab operates as a grant-centered research group, focusing on projects t
   
   Problem and principle together drive the AI we build.
 
-2.	Small Steps → Reproducible Baselines → Iterative Improvement
+#### 2.	Small Steps → Reproducible Baselines → Iterative Improvement
 
   Our work emphasizes:
    - Developing and running reproducible baselines
@@ -41,25 +41,25 @@ The LARK Lab operates as a grant-centered research group, focusing on projects t
 
   Big leaps are valuable but only when built on a solid, reproducible foundation.
 
-3.	Communicate Early, Communicate Often
+#### 3.	Communicate Early, Communicate Often
 
   If you are unsure where to start or if the direction is unclear, ask. Asking questions is a strength, not a weakness.
 
   No one is expected to know everything; LLM and NLP research move too quickly for that to be feasible. What matters most is alignment, clarity, and shared understanding.
 
-4.	Transparency Over and Perfection
+#### 4.	Transparency Over and Perfection
 
   Small, consistent progress updates are essential.
   
   Visibility helps us support each other, avoid redundant work, and confirms that we are moving in the right direction. It is completely okay if experiments fail or approaches do not work; however, hidden progress slows the entire team.
 
-5.	A High-Standards but Supportive Lab
+#### 5.	A High-Standards but Supportive Lab
 
   We aim to produce impactful, rigorous, and safe AI research. This requires high standards and a culture grounded in kindness, respect, and collaboration.
   
   We give direct, constructive feedback because we want each other to succeed, not because we judge ability or potential. We push for excellence together, not alone.
 
-6.	Growth Mindset and Self-Driven Learning
+#### 6.	Growth Mindset and Self-Driven Learning
 
   No one starts as an expert in everything. We work in a field where skills change rapidly. What matters is the willingness to learn, ask questions, and iterate.
   
@@ -67,7 +67,7 @@ The LARK Lab operates as a grant-centered research group, focusing on projects t
   
   Curiosity, not perfection, drives growth.
 
-7.	Healthy Boundaries and Professionalism
+#### 7.	Healthy Boundaries and Professionalism
 
   We respect each other’s time, effort, and well-being. If project directions evolve or expectations shift, we communicate openly so we can adjust together.
   
