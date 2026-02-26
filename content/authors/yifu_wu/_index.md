@@ -3,7 +3,7 @@
 title: Yifu Wu, PhD
 
 # Added line - this will make your name link to your personal website
-website: "https://nnonno.github.io/yifu_wu"
+website: "https://nnonno.github.io"
 
 # Full Name (for SEO)
 first_name: Yifu
@@ -30,7 +30,7 @@ organizations:
 social:
   - icon: globe
     icon_pack: fas
-    link: https://nnonno.github.io/yifu_wu
+    link: https://nnonno.github.io
   - icon: envelope
     icon_pack: fas
     link: 'mailto:wuyifu2f@gmail.com'
