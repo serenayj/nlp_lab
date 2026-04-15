@@ -10,7 +10,7 @@ last_name: Kruse
 superuser: true
 
 # Role/position
-role: NLP Scientist
+role: NLP Scientist (current: Microsoft Software Engineer)
 
 # Organizations/Affiliations
 organizations:
