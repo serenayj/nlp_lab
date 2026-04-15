@@ -10,7 +10,7 @@ last_name: Khatwani
 superuser: false
 
 # Role/position
-role: NLP Summer Intern
+role: NLP Research Intern
 
 # Organizations/Affiliations
 organizations:
