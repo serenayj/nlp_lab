@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shiyue Hu, MS Candidate
+title: Shiyue Hu, MS
 
 # Full Name (for SEO)
 first_name: Shiyue 
@@ -10,7 +10,7 @@ last_name: Hu
 superuser: false
 
 # Role/position
-role:  NLP Research Intern
+role:  NLP Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers 
 ---
 
-Shiyue Hu is pursuing a Master’s degree in Computational Linguistics at the University of Colorado Boulder. She has a background in linguistics and natural language processing for educational applications. Her current research at the LARK Lab focuses on applying AI in healthcare, including long-form clinical text summarization and mechanistic interpretability to investigate bias in large language models. In the future, she hopes to continue developing AI systems for healthcare applications, with an emphasis on fairness, interpretability, and improving clinical decision support.
+Shiyue Hu is an NLP Data Scientist at the LARK Lab, with a Master’s degree in Computational Linguistics at the University of Colorado Boulder. She has a background in linguistics and natural language processing for educational applications. Her current research at the LARK Lab focuses on applying AI in healthcare, including long-form clinical text summarization and mechanistic interpretability to investigate bias in large language models. In the future, she hopes to continue developing AI systems for healthcare applications, with an emphasis on fairness, interpretability, and improving clinical decision support.
