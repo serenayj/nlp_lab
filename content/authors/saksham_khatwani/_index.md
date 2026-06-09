@@ -10,7 +10,7 @@ last_name: Khatwani
 superuser: false
 
 # Role/position
-role: NLP Research Intern
+role: NLP Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 ---
 
-Saksham Khatwani is pursuing a Master’s degree in Computer Science at the University of Colorado Boulder. He has a background in full-stack software engineering within the fintech industry. At CU Boulder, he has worked on projects involving low-resource languages and semantic meaning representations. His current research at the LARK Lab focuses on reinforcement learning from human feedback (RLHF) to fine-tune large language models that incorporate medical knowledge graphs for improved diagnostic prediction. In the future, he hopes to continue advancing neurosymbolic methods in NLP to make the training process of language models more efficient.
+Saksham Khatwani is an NLP Data Scientist with a Master’s degree in Computer Science at the University of Colorado Boulder. He has a background in full-stack software engineering within the fintech industry. At CU Boulder, he has worked on projects involving low-resource languages and semantic meaning representations. His current research at the LARK Lab focuses on reinforcement learning from human feedback (RLHF) to fine-tune large language models that incorporate medical knowledge graphs for improved diagnostic prediction. In the future, he hopes to continue advancing neurosymbolic methods in NLP to make the training process of language models more efficient.
