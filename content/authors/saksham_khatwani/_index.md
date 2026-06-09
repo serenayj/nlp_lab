@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Saksham Khatwani, MS Candidate
+title: Saksham Khatwani, MS
 
 # Full Name (for SEO)
 first_name: Saksham 
