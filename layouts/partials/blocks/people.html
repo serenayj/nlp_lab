@@ -11,9 +11,11 @@
 {{ $show_organizations := $block.design.show_organizations | default false }}
 {{ $show_role := $block.design.show_role | default true }}
 
-<div class="row justify-content-center people-widget">
+<!-- div class="row justify-content-center people-widget" -->
+<div class="row people-widget">
   {{ with $block.content.title }}
-    <div class="section-heading col-12 mb-3 text-center">
+    <!-- div class="section-heading col-12 mb-3 text-center" -->
+    <div class="section-heading col-12 mb-3">
       <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
       {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
