@@ -7,3 +7,9 @@
     object-position: center;
   }
 }
+
+// Left-align people page group headers
+.people-widget .section-heading,
+.people-widget .col-md-12 h2 {
+  text-align: left;
+}
