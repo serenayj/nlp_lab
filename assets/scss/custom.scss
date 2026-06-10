@@ -1,0 +1,9 @@
+// Fix post card image aspect ratio and size on homepage
+.card-image {
+  img {
+    width: 100%;
+    height: 200px;        // fixed height so all cards are uniform
+    object-fit: cover;    // crop to fill, no stretching
+    object-position: center;
+  }
+}
