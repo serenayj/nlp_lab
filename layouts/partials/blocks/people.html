@@ -2,6 +2,7 @@
 {{/* Documentation: https://hugoblox.com/blocks/ */}}
 {{/* License: https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md */}}
 {{/* Modified to support redirecting author names to external websites */}}
+{{/* Modified to render Alumni group as a flat list */}}
 
 {{/* Initialise */}}
 {{ $page := .wcPage }}
@@ -11,10 +12,8 @@
 {{ $show_organizations := $block.design.show_organizations | default false }}
 {{ $show_role := $block.design.show_role | default true }}
 
-<!-- div class="row justify-content-center people-widget" -->
 <div class="row people-widget">
   {{ with $block.content.title }}
-    <!-- div class="section-heading col-12 mb-3 text-center" -->
     <div class="section-heading col-12 mb-3">
       <h1 class="mb-0">{{ . | markdownify | emojify }}</h1>
       {{ with $block.content.subtitle }}<p class="mt-1">{{ . | markdownify | emojify }}</p>{{ end }}
@@ -43,38 +42,67 @@
       </div>
     {{end}}
 
-    {{ range $query }}
-      {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
-      {{/* Get link to user's profile page or external website if specified. */}}
-      {{ $link := "" }}
-      {{ if .Params.website }}
-        {{ $link = .Params.website }}
-      {{ else }}
-        {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
-          {{ $link = .RelPermalink }}
-        {{ end }}
-      {{ end }}
-      <div class="col-12 col-sm-auto people-person">
-        {{ $src := "" }}
-        {{ if site.Params.features.avatar.gravatar }}
-          {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
-        {{ else if $avatar }}
-          {{ $avatar_image := $avatar.Fill "270x270 Center" }}
-          {{ $src = $avatar_image.RelPermalink }}
-        {{ end }}
-        {{ if $src }}
-          {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
-          {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
-        {{ end }}
+    {{ if eq . "Alumni" }}
 
-        <div class="portrait-title">
-          <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-          {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
-          {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
-          {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
-          {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
-        </div>
+      {{/* ---- Alumni: render as flat list ---- */}}
+      <div class="col-12">
+        <ul style="list-style: none; padding: 0; margin: 0 0 2rem 0;">
+          {{ range $query }}
+            {{ $link := "" }}
+            {{ if .Params.website }}
+              {{ $link = .Params.website }}
+            {{ else }}
+              {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+                {{ $link = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+            <li style="padding: 5px 0; border-bottom: 1px solid #f0f0f0;">
+              {{ if $link }}<a href="{{ $link }}">{{ end }}
+              <strong>{{ .Title }}</strong>
+              {{ if $link }}</a>{{ end }}
+              {{ with .Params.role }} &mdash; {{ . }}{{ end }}
+              {{ range .Params.organizations }} @ {{ .name }}{{ end }}
+            </li>
+          {{ end }}
+        </ul>
       </div>
+
+    {{ else }}
+
+      {{/* ---- All other groups: avatar card layout ---- */}}
+      {{ range $query }}
+        {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+        {{/* Get link to user's profile page or external website if specified. */}}
+        {{ $link := "" }}
+        {{ if .Params.website }}
+          {{ $link = .Params.website }}
+        {{ else }}
+          {{ with site.GetPage (printf "/authors/%s" (path.Base .File.Dir)) }}
+            {{ $link = .RelPermalink }}
+          {{ end }}
+        {{ end }}
+        <div class="col-12 col-sm-auto people-person">
+          {{ $src := "" }}
+          {{ if site.Params.features.avatar.gravatar }}
+            {{ $src = printf "https://s.gravatar.com/avatar/%s?s=150" (md5 .Params.email) }}
+          {{ else if $avatar }}
+            {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+            {{ $src = $avatar_image.RelPermalink }}
+          {{ end }}
+          {{ if $src }}
+            {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+            {{with $link}}<a href="{{.}}">{{end}}<img width="270" height="270" loading="lazy" class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">{{if $link}}</a>{{end}}
+          {{ end }}
+          <div class="portrait-title">
+            <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
+            {{ if and $show_organizations .Params.organizations }}{{ range .Params.organizations }}<h3>{{ .name }}</h3>{{ end }}{{ end }}
+            {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+            {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+            {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
+          </div>
+        </div>
+      {{ end }}
+
     {{ end }}
   {{ end }}
 </div>
