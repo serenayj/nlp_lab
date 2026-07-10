@@ -1,3 +1,11 @@
+---
+title: "Uncertainty Quantification for Large Language Models: MUSE, a Multi-LLM Subset Ensemble Approach" 
+date: 2026-05-04
+tags: ["Uncertainty Quantification", "LLM Calibration", "Trustworthy AI", "Clinical NLP"]
+authors:
+  - admin
+---
+
 # Uncertainty Quantification for Large Language Models: MUSE, a Multi-LLM Subset Ensemble Approach
 
 *Project theme*: Uncertainty quantification (UQ) and calibration for large language models — a simple, information-theoretic method that aggregates multiple LLMs for reliable confidence estimates in high-stakes decision-making.
@@ -44,3 +52,6 @@ This project was published at **EMNLP 2025** (main conference).
 Maya Kruse, Majid Afshar, Saksham Khatwani, Anoop Mayampurath, Guanhua Chen, and Yanjun Gao. 2025. [Simple Yet Effective: An Information-Theoretic Approach to Multi-LLM Uncertainty Quantification](https://aclanthology.org/2025.emnlp-main.1551/). In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*, pages 30493–30504.
 
 Code: [https://github.com/LARK-NLP-Lab/MUSE](https://github.com/LARK-NLP-Lab/MUSE)
+
+This research is a R00 project funded by National Instiute of Health, National Library of Medicine (LM014308). 
+
