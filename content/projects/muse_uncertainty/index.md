@@ -10,9 +10,8 @@ authors:
   - admin
 ---
 
-# Uncertainty Quantification for Large Language Models: MUSE, a Multi-LLM Subset Ensemble Approach
 
-*Project theme*: Uncertainty quantification (UQ) and calibration for large language models — a simple, information-theoretic method that aggregates multiple LLMs for reliable confidence estimates in high-stakes decision-making.
+Uncertainty quantification (UQ) and calibration for large language models — a simple, information-theoretic method that aggregates multiple LLMs for reliable confidence estimates in high-stakes decision-making.
 
 *Lead*: This project was led by Maya Kruse, a former NLP Data Scientist at the LARK Lab.
 
