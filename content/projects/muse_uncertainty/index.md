@@ -2,7 +2,7 @@
 
 *Project theme*: Uncertainty quantification (UQ) and calibration for large language models — a simple, information-theoretic method that aggregates multiple LLMs for reliable confidence estimates in high-stakes decision-making.
 
-*Lead*: This project was led by Maya Kruse, PhD student at the LARK Lab.
+*Lead*: This project was led by Maya Kruse, a former NLP Data Scientist at the LARK Lab.
 
 ## Project Motivation
 
@@ -35,16 +35,11 @@ Deploying LLMs in high-stakes domains requires knowing not just what a model pre
 
 ## Broader Impact
 
-This work anchors LARK Lab's broader research agenda on uncertainty quantification for trustworthy AI:
-
-- Uncertainty quantification and calibration for clinical LLMs
-- Foundational methods for trustworthy AI-assisted clinical decision-making
-- Communicating model confidence to clinicians in actionable forms
-- Calibration-aware fine-tuning and distillation
+This work anchors LARK Lab's broader research agenda on uncertainty quantification for trustworthy AI—spanning calibration of clinical LLMs, communicating model confidence to clinicians, and calibration-aware fine-tuning and distillation.
 
 ## Publication
 
-This project was published at **EMNLP 2025** (main conference), Suzhou, China.
+This project was published at **EMNLP 2025** (main conference).
 
 Maya Kruse, Majid Afshar, Saksham Khatwani, Anoop Mayampurath, Guanhua Chen, and Yanjun Gao. 2025. [Simple Yet Effective: An Information-Theoretic Approach to Multi-LLM Uncertainty Quantification](https://aclanthology.org/2025.emnlp-main.1551/). In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing*, pages 30493–30504.
 
