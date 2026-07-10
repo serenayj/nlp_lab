@@ -1,7 +1,11 @@
 ---
 title: "Uncertainty Quantification for Large Language Models: MUSE, a Multi-LLM Subset Ensemble Approach" 
 date: 2026-05-04
-tags: ["Uncertainty Quantification", "LLM Calibration", "Trustworthy AI", "Clinical NLP"]
+tags:
+  - Uncertainty Quantification
+  - LLM Calibration
+  - Trustworthy AI
+  - Clinical NLP
 authors:
   - admin
 ---
