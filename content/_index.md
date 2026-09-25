@@ -18,7 +18,7 @@ sections:
       title: Openings 
       subtitle:
       text: |
-         As the first NLP research lab at CU-Anschutz DBMI, we welcome passionate individuals eager to make a significant impact on NLP and AI in health to join our team! Currently, we have filled up our postdoc and research intern positions, but **PhD** at the Computational Bioscience program (Clinical Informatics track) are available! **apply here**: [link](https://forms.gle/DWRmJ86RERBgqqVz9)!
+         As the first NLP research lab at CU-Anschutz DBMI, we welcome passionate individuals eager to make a significant impact on NLP and AI in health to join our team! We are actively recruiting student interns in the area of AI for Theoretical Computing, and **PhD** at the Computational Bioscience program (Clinical Informatics track) are available! **indicate your interest here**: [link](https://forms.gle/DWRmJ86RERBgqqVz9)!
       image:
           filename: lab_people_0905.jpg
     
